@@ -10,6 +10,8 @@
 
 ## Code Sample
 
+### Image
+![mackerel] (https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
 
 ### Sponsors
 
