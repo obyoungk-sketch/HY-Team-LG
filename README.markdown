@@ -1,5 +1,11 @@
-# [Jekyll](https://jekyllrb.com/)
+# HanYang AI+X : Deep-Learning
 
+## Topic : Stable Diffusion Model
+
+## Team Member 
+  LG Electroncis Kang, OByoug
+  LG Electronics Ryu, Seungduck
+  LG Electronics Park, Hyunsung
 
 
 ## Credits
