@@ -3,9 +3,9 @@
 ## Topic : Stable Diffusion Model
 
 ## Team Member 
-  LG Electroncis Kang, OByoug
-  LG Electronics Ryu, Seungduck
-  LG Electronics Park, Hyunsung
+  * LG Electroncis Kang, OByoug
+  * LG Electronics Ryu, Seungduck
+  * LG Electronics Park, Hyunsung
 
 
 ## Credits
