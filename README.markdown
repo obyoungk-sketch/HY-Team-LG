@@ -8,7 +8,8 @@
   * LG Electronics Park, Hyunsung
 
 
-## Credits
+## Code Sample
+
 
 ### Sponsors
 
