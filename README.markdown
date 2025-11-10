@@ -11,7 +11,7 @@
 ## Code Sample
 
 ### Image
-![0|mackerel] (https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
+[!mackerel] (https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png "Mackere")
 
 ### Sponsors
 
