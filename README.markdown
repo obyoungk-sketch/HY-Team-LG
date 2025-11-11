@@ -1,4 +1,4 @@
-'rgb(9,105,218)'# HanYang AI+X : Deep-Learning
+<font color='#1E90FF'> # HanYang AI+X : Deep-Learning </font>
 
 ## Topic : Stable Diffusion Model
 
