@@ -10,7 +10,7 @@
 
 ## Code Sample
 
-import torch
+import torch.
 from diffusers import StableDiffusionPipeline
 from PIL import Image
 
