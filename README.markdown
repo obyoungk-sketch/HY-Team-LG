@@ -3,9 +3,9 @@
 ## Topic : Stable Diffusion Model
 
 ## Team Member 
-  * LG Electroncis Kang, OByoug
-  * LG Electronics Ryu, Seungduck
-  * LG Electronics Park, Hyunsung
+  * LG Electroncis Kang, OByoug (Prodct Planning)
+  * LG Electronics Ryu, Seungduck (Product Plannning)
+  * LG Electronics Park, Hyunsung (Quality Engineering)
 
 
 ## Code Sample
