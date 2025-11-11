@@ -1,10 +1,5 @@
-<font color='#1E90FF'> # HanYang AI+X : Deep-Learning </font>
 
-
-<font color='#1E90FF'> 예쁜 파랑 </font>
-
-
-<mark style='background-color: #24292e'><font color= "white"> 회색 </font></mark>
+<mark style='background-color: #24292e'><font color= "white">  # HanYang AI+X : Deep-Learning  </font></mark>  
 <mark style='background-color: #f6f8fa'> 연한 회색 </mark>
 
 ## Topic : Stable Diffusion Model
