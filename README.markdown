@@ -17,7 +17,6 @@ from PIL import Image
 #### 1. 모델 로드 (GPU 사용 설정)
 #### 사용할 모델 ID 설정 (v1.5는 가장 표준적인 모델 중 하나)
 model_id = "runwayml/stable-diffusion-v1-5"  
-torch.float16은 VRAM을 적게 사용하게 함  
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)  
 pipe = pipe.to("cuda")  
 
