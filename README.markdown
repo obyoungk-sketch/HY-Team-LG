@@ -1,4 +1,4 @@
-# HanYang AI+X : Deep-Learning
+'rgb(9,105,218)# HanYang AI+X : Deep-Learning'
 
 ## Topic : Stable Diffusion Model
 
