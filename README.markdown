@@ -1,5 +1,8 @@
 <font color='#1E90FF'> # HanYang AI+X : Deep-Learning </font>
 
+
+<font color='#1E90FF'> 예쁜 파랑 </font>
+
 ## Topic : Stable Diffusion Model
 
 ## Team Member 
