@@ -36,7 +36,7 @@ Diffusion 모델 연구에서는 데이터 품질이 모델 성능에 큰 영향
 * CIFAR-10: 32×32 크기의 소규모 이미지 (기초 실습용)
 * CelebA / FFHQ: 고해상도 얼굴 이미지 생성 연구에 자주 사용
 * ImageNet (일부 클래스): 대규모 이미지 분류 및 생성 실험용
-* LAION-5B: Stable Diffusion이 학습된 공개 대규모 텍스트-이미지 페어 데이터셋  [![출처:](laion.ai)]  
+* LAION-5B: Stable Diffusion이 학습된 공개 대규모 텍스트-이미지 페어 데이터셋  [![출처:](https://laion.ai/?utm_source=chatgpt.com)]  
 데이터 전처리 과정에서는  
 * 텍스트-이미지 매칭 품질을 위한 CLIP 필터링
 * 해상도 정규화 및 민감/불법 이미지 필터링 등
