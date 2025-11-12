@@ -75,6 +75,7 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 ## IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
 
+
 🔹 비교 분석 요약  
 Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전히 샘플링 속도와 연산 효율성은 주요 개선 과제입니다  
 
@@ -95,9 +96,9 @@ https://arxiv.org/abs/2112.10752
 ## VI. Conclusion
 Diffusion Models는 단순히 이미지를 생성하는 기술을 넘어,  
 AI가 데이터를 이해하고 재구성하는 방식 자체를 혁신적으로 바꾼 모델입니다.  
-GAN의 불안정한 학습 구조를 극복하고,  
-더 자연스럽고 사실적인 이미지를 만들어내며,  
+GAN의 불안정한 학습 구조를 극복하고,더 자연스럽고 사실적인 이미지를 만들어내며,  
 텍스트, 오디오, 3D 생성 등으로 확장 가능한 범용적 생성 구조로 자리잡았습니다.  
+
 향후 연구 방향  
 * Efficient Sampling: 생성 속도를 개선하기 위한 최적화 연구 (예: DDIM, PNDM)
 * Multi-modal Diffusion: 텍스트·오디오·3D 등 다양한 입력 조합 확장
