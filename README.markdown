@@ -139,6 +139,6 @@ with torch.autocast("cuda"):
 image.save("mackerel.png")  
 print("이미지 생성 완료! 'Mackerel.png'로 저장되었습니다.")  
 
-### 생성 Image
+##### 5. 생성 Image
 [![mackerel](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
 
