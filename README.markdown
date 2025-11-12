@@ -137,7 +137,7 @@ with torch.autocast("cuda"):
 image.save("mackerel.png")  
 print("이미지 생성 완료! 'Mackerel.png'로 저장되었습니다.")  
 
-##### 5. 생성 Image
+##### 5. 생성 Image : 운동장을 달리고 있는 고화질 고등어 이미지
 [![mackerel](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
 
 <mark style='background-color: #24292e'><font color= "white"> 감사합니다  </font></mark>  
