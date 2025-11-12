@@ -80,9 +80,10 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
 <img width="482" height="71" alt="image" src="https://github.com/user-attachments/assets/d486e263-3e9f-4b74-8bf3-b87ffbf43a1e" />
 
-
 🔹 비교 분석 요약  
 Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전히 샘플링 속도와 연산 효율성은 주요 개선 과제입니다  
+<img width="539" height="71" alt="image" src="https://github.com/user-attachments/assets/203f641c-f6bf-4373-a416-f186c38dddad" />
+
 
 ## V. Related Work (핵심 논문 및 리소스)
 •	Ho et al. (2020) — Denoising Diffusion Probabilistic Models (DDPM)  
