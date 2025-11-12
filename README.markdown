@@ -75,11 +75,11 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 ## IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
 
-|평가항목|설명|
-|FID (Fréchet Inception Distance)|생성 이미지의 품질과 다양성을 평가|
-|IS (Inception Score)|이미지의 분류 신뢰도 및 품질을 평가|
-|Sampling Speed|한 장의 이미지를 생성하는 데 걸리는 시간}
-
+|평가항목|설명|  
+|:--|:--|:--|  
+|FID (Fréchet Inception Distance)|생성 이미지의 품질과 다양성을 평가|  
+|IS (Inception Score)|이미지의 분류 신뢰도 및 품질을 평가|  
+|Sampling Speed|한 장의 이미지를 생성하는 데 걸리는 시간|  
 
 🔹 비교 분석 요약  
 Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전히 샘플링 속도와 연산 효율성은 주요 개선 과제입니다  
