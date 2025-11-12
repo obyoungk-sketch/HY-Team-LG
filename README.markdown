@@ -70,7 +70,7 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 * 빠른 이미지 생성을 가능하게 하며,
 * 고해상도 이미지까지 효율적으로 다룰 수 있습니다
 
-<img width="413" height="553" alt="image" src="https://github.com/user-attachments/assets/bee17973-6e60-40c4-9993-95247c537b04" />
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/bee17973-6e60-40c4-9993-95247c537b04" />
 
 ### IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
@@ -81,6 +81,7 @@ Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전
 <img width="539" height="112" alt="image" src="https://github.com/user-attachments/assets/7948ea14-b7e5-4c0c-b612-738bb4f68363" />
 
 ### V. Related Work (핵심 논문 및 리소스)
+🔹참고 논문    
 •	Ho et al. (2020) — Denoising Diffusion Probabilistic Models (DDPM)  
 https://arxiv.org/abs/2006.11239  
 •	Song et al. (2020) — DDIM: Denoising Diffusion Implicit Models  
