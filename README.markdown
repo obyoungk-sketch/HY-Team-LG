@@ -15,6 +15,7 @@ III. Methodology
 IV. Evaluation & Analysis  
 V. Related Work  
 VI. Conclusion  
+Ⅶ. Code Sample  
 
 ## I. Proposal
 ### Motivation
@@ -103,7 +104,7 @@ GAN의 불안정한 학습 구조를 극복하고,
 * Controllable Generation: ControlNet 등 사용자 의도 기반 제어 가능 모델  
 “Diffusion Model은 노이즈에서 시작해 현실을 그려내는, 현대 AI의 가장 창의적이고 시각적인 알고리즘이다.”
 
-## Code Sample
+## ⅦCode Sample
 
 import torch  
 from diffusers import StableDiffusionPipeline  
