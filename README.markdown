@@ -72,6 +72,9 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 * 빠른 이미지 생성을 가능하게 하며,
 * 고해상도 이미지까지 효율적으로 다룰 수 있습니다
 
+* <img width="526" height="706" alt="image" src="https://github.com/user-attachments/assets/ef3f66fb-cb32-401b-827c-9abd928acffa" />
+
+
 ## IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
 
