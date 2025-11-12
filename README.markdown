@@ -1,6 +1,4 @@
 
-<mark style='background-color: #24292e'><font color= "white">  # HanYang AI+X : Deep-Learning  </font></mark>  
-
 ## Topic : Understanding Diffusion Models — From Noise to Creativity
 
 ## Team Member 
@@ -141,4 +139,6 @@ print("이미지 생성 완료! 'Mackerel.png'로 저장되었습니다.")
 
 ##### 5. 생성 Image
 [![mackerel](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
+
+<mark style='background-color: #24292e'><font color= "white"> 감사합니다  </font></mark>  
 
