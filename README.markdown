@@ -7,13 +7,13 @@
   * LG Electronics Park, Hyunsung (Quality Engineering)
 
 ## Table of Contents
-I. Proposal  
-II. Datasets  
-III. Methodology  
-IV. Evaluation & Analysis  
-V. Related Work  
-VI. Conclusion  
-Ⅶ. Code Sample  
+### I. Proposal
+### II. Datasets
+### III. Methodology
+### IV. Evaluation & Analysis
+### V. Related Work
+### VI. Conclusion
+### Ⅶ. Code Sample
 
 ### I. Proposal
 #### Motivation
@@ -124,7 +124,7 @@ prompt = "A high-quality photo of a Mackerel running on the playground"
 negative_prompt = "blurry, low quality, bad art, (worst quality:1.4)"  
 
 ##### 3. 이미지 생성 실행
-##### guidance_scale: 프롬프트를 얼마나 따를지 정하는 값 (7~8.5가 일반적)  
+##### guidance_scale: 프롬프트를 얼마나 따를지 정하는 값 (7~8.5가 일반적)
 ##### num_inference_steps: 노이즈 제거 단계 수 (50 정도가 표준)  
 with torch.autocast("cuda"):  
     image = pipe(  
