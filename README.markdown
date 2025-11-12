@@ -78,7 +78,7 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 
 ## IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
-<img width="964" height="142" alt="image" src="https://github.com/user-attachments/assets/d486e263-3e9f-4b74-8bf3-b87ffbf43a1e" />
+<img width="482" height="71" alt="image" src="https://github.com/user-attachments/assets/d486e263-3e9f-4b74-8bf3-b87ffbf43a1e" />
 
 
 🔹 비교 분석 요약  
