@@ -80,11 +80,14 @@ Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.
 |IS (Inception Score)|이미지의 분류 신뢰도 및 품질을 평가|
 |Sampling Speed|한 장의 이미지를 생성하는 데 걸리는 시간|
 
-<img width="530" height="93" alt="image" src="https://github.com/user-attachments/assets/0c628311-92b2-4b16-b1b5-5295a89760ac" />
-
 🔹 비교 분석 요약  
 Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전히 샘플링 속도와 연산 효율성은 주요 개선 과제입니다  
-<img width="539" height="112" alt="image" src="https://github.com/user-attachments/assets/7948ea14-b7e5-4c0c-b612-738bb4f68363" />
+|항목|Diffusion Model|GAN|
+|:--|:--|:--|
+|학습안정성|매우 높음|불안정(model collapse 가능)|
+|이미지품질|매우 우수(세밀함)|우수하나 제약이 있음|
+|생성속도|다소 느림|빠름|
+|다양성|매우 높음|한정적(mode collapse 가능)|
 
 ### V. Related Work (핵심 논문 및 리소스)
 🔹참고 논문    
