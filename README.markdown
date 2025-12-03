@@ -2,7 +2,7 @@
 ## Topic : Understanding Diffusion Models — From Noise to Creativity
 
 ## Team Member 
-  * LG Electroncis Kang, OByoug (Prodct Planning)
+  * LG Electroncis Kang, OByoung (Prodct Planning)
   * LG Electronics Ryu, Seungduck (Product Plannning)
   * LG Electronics Park, Hyunsung (Quality Engineering)
 
@@ -116,13 +116,15 @@ GAN의 불안정한 학습 구조를 극복하고,더 자연스럽고 사실적�
 * Controllable Generation: ControlNet 등 사용자 의도 기반 제어 가능 모델  
 “Diffusion Model은 노이즈에서 시작해 현실을 그려내는, 현대 AI의 가장 창의적이고 시각적인 알고리즘이다.”
 
-### Ⅶ. Code Sample
+### Ⅶ. Stable Diffusion model Code Sample
 
 import torch  
 from diffusers import StableDiffusionPipeline  
 from PIL import Image  
 
-##### 1. 모델 로드 (GPU 사용 설정)
+1. 모델 로드 (GPU 사용 설정)
+.note
+
 ##### 사용할 모델 ID 설정 (가장 표준적인 모델 v1.5 사용)
 model_id = "runwayml/stable-diffusion-v1-5"  
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)  
