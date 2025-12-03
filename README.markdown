@@ -74,7 +74,7 @@ Stable Diffusion은 픽셀 공간 대신 잠재 공간(latent space) 에서 확�
 
 ### IV. Evaluation & Analysis
 Diffusion Model의 성능 평가는 주로 다음 지표를 사용합니다.  
-<img width="482" height="78" alt="image" src="https://github.com/user-attachments/assets/0c628311-92b2-4b16-b1b5-5295a89760ac" />
+<img width="530" height="86" alt="image" src="https://github.com/user-attachments/assets/0c628311-92b2-4b16-b1b5-5295a89760ac" />
 
 🔹 비교 분석 요약  
 Diffusion 모델은 안정성과 품질 면에서 GAN을 능가하지만, 여전히 샘플링 속도와 연산 효율성은 주요 개선 과제입니다  
