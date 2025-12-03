@@ -99,6 +99,7 @@ https://arxiv.org/abs/2010.02502
 https://arxiv.org/abs/2011.13456  
 •	Rombach et al. (2022) — High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion의 기반 논문)  
 https://arxiv.org/abs/2112.10752  
+
 🔹 오픈소스 및 실습 리소스  
 •	CompVis / Stable Diffusion (GitHub): https://github.com/CompVis/stable-diffusion  
 •	Hugging Face Diffusers: https://huggingface.co/docs/diffusers  
