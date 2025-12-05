@@ -123,8 +123,8 @@ import torch
 from diffusers import StableDiffusionPipeline  
 from PIL import Image  
 
-##### 1. 모델 로드 (GPU 사용 설정)
-##### 사용할 모델 ID 설정 (가장 표준적인 모델 v1.5 사용)
+> 1. 모델 로드 (GPU 사용 설정)
+> 사용할 모델 ID 설정 (가장 표준적인 모델 v1.5 사용)
 model_id = "runwayml/stable-diffusion-v1-5"  
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)  
 pipe = pipe.to("cuda")  
