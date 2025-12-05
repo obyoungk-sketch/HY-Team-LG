@@ -129,14 +129,14 @@ model_id = "runwayml/stable-diffusion-v1-5"
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)  
 pipe = pipe.to("cuda")  
 
-> 2. 프롬프트 설정
-> 운동장을 달리고 있는 고화질 고등어  
+> 2. 프롬프트 설정   
+> 운동장을 달리고 있는 고화질 고등어     
 prompt = "A high-quality photo of a Mackerel running on the playground"  
-negative_prompt = "blurry, low quality, bad art, (worst quality:1.4)"  
+negative_prompt = "blurry, low quality, bad art, (worst quality:1.4)"     
 
 > 3. 이미지 생성 실행
-> guidance_scale: 프롬프트를 얼마나 따를지 정하는 값 (7~8.5가 일반적)
-> num_inference_steps: 노이즈 제거 단계 수 (50 정도가 표준)  
+> guidance_scale: 프롬프트를 얼마나 따를지 정하는 값 (7~8.5가 일반적)   
+> num_inference_steps: 노이즈 제거 단계 수 (50 정도가 표준)     
 with torch.autocast("cuda"):  
     image = pipe(  
         prompt,   
@@ -145,11 +145,11 @@ with torch.autocast("cuda"):
         num_inference_steps=50  
     ).images[0]    
 
-> 4. 이미지 저장
+> 4. 이미지 저장   
 image.save("mackerel.png")  
 print("이미지 생성 완료! 'Mackerel.png'로 저장되었습니다.")  
 
-> 5. 생성 Image : 운동장을 달리고 있는 고화질 고등어 이미지
+> 5. 생성 Image : 운동장을 달리고 있는 고화질 고등어 이미지   
 [![mackerel](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)](https://github.com/obyoungk-sketch/HY-Team-LG/blob/master/assets/mackerel.png)
 
 <mark style='background-color: #24292e'><font color= "white"> 감사합니다  </font></mark>  
